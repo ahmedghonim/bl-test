@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <main className="h-screen flex justify-center p-20" dir="rtl">
-      <h1 className="text-[40px] text-center">
+      <h1 className="text-[40px] text-center font-bold">
         اشعار ..
         <br />
         عملاءنا الاعزاء ..
